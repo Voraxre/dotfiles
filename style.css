@@ -1,0 +1,7 @@
+window#waybar{
+	background-color: transparent;
+	color: #ffffff;
+}
+#idle_inhibitor.activated { 
+  background-color: #285577; 
+}
